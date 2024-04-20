@@ -1,7 +1,7 @@
 # MediBuddy App
 
 
->  Host Live - [Check Here]
+>  Host Live -  [Check Here](https://medicine-reminder-mq7n.onrender.com)
 
 Welcome to MediBuddy - Your Dedicated Medicine Management Companion!
 
