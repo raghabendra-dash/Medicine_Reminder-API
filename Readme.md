@@ -70,4 +70,5 @@ The app is built using technologies such as React for the frontend, Firebase for
 
    - React
    - Firebase (Authentication, Firestore)
-   - CSS
+   - React-router-dom
+   - HTML/CSS
