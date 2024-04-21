@@ -5,6 +5,17 @@
 
 Welcome to MediBuddy - Your Dedicated Medicine Management Companion!
 
+
+
+
+![Screenshot (1981)](https://github.com/raghabendra-dash/Medicine_-Reminder-API/assets/147539313/5952ce9a-ce13-494f-997b-4e1bde8ff59c)
+
+
+
+
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
